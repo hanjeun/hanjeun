@@ -33,5 +33,5 @@
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanjeun&theme=transparent&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hanjeun&hide_border=true&background=00000000" />
 </div>
