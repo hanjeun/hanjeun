@@ -1,37 +1,26 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=708090&height=180&text=JaeEun's%20GitHub&animation=fadeIn&fontColor=708090&fontSize=60" />
-  <p>백엔드 개발자로 성장하고 있는 한재은입니다.<br>어제보다 오늘 조금 더 나아지는 것을 즐깁니다.</p>
-</div>
+<h1>Noah <sub><img src="assets/backend-engineer.svg" width="128" height="20" alt="Backend Engineer" /></sub><a href="https://www.instagram.com/noah_han_04"><img align="right" src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="24" alt="Instagram" /></a><a href="https://www.notion.so/34d26d8c919380a5ae3feed06fe89d5b"><img align="right" src="https://cdn.simpleicons.org/notion/6B7280" width="40" height="24" alt="Notion" /></a><a href="mailto:hanjeun111@gmail.com"><img align="right" src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="24" alt="Email" /></a></h1>
 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-</div>
+<table width="100%">
+<tr><td height="160">
+<a href="https://github.com/hanjeun/reserve"><img align="right" src="assets/github-link.svg" width="72" height="114" alt="GitHub ↗" /></a><a href="https://app.reserve.it.kr/"><img align="right" src="assets/service-link.svg" width="72" height="114" alt="Service ↗" /></a>
+<p><img src="assets/reserve.svg" width="170" height="69" alt="예약이 필요한 순간, RESERVE" /></p>
+<p><img alt="Java 21" src="https://img.shields.io/badge/Java_21-2F3542?style=flat-square" />&nbsp;&nbsp;<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />&nbsp;&nbsp;<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></p>
+</td></tr>
+</table>
 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
-<div align="center">
-  <a href="https://www.instagram.com/noah_han_04">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://www.notion.so/34d26d8c919380a5ae3feed06fe89d5b">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  </a>
-  <a href="mailto:hanjeun111@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
-</div>
+<table width="100%">
+<tr><td height="160">
+<img align="right" src="assets/card-space.svg" width="1" height="124" alt="" />
+<h3>Open source</h3>
+<p><a href="https://github.com/jwtk/jjwt/pull/1075"><img alt="JJWT PR 1075 merged" src="https://img.shields.io/badge/JJWT_%231075-merged-8250df?style=flat-square&logo=github&logoColor=white" /></a></p>
+<p>JWK 키 유형 설명 개선</p>
+</td></tr>
+</table>
 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hanjeun&hide_border=true&background=00000000" />
-</div>
+<table width="100%">
+<tr><td>
+<a href="https://www.gitanimals.org/ko-KR?utm_medium=image&utm_source=hanjeun&utm_content=farm">
+<img src="https://camo.githubusercontent.com/5caefe1f6a7644c51cc26c1d80a3127d7fec1d224966b460455df08209a0bebe/68747470733a2f2f72656e6465722e676974616e696d616c732e6f72672f6661726d732f68616e6a65756e#svgView(viewBox(5,5,590,290))" width="100%" alt="hanjeun의 GitHub 활동과 픽셀 캐릭터" />
+</a>
+</td></tr>
+</table>
