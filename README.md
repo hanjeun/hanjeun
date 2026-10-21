@@ -3,7 +3,7 @@
 <table width="100%">
 <tbody><tr><td width="1000" height="160" valign="middle">
 <p align="right"><picture><source media="(max-width: 391px)" srcset="assets/reserve-small.svg" /><source media="(max-width: 600px)" srcset="assets/reserve-mobile.svg" /><img align="left" src="assets/reserve.svg" alt="예약이 필요한 순간, RESERVE" /></picture><a href="https://app.reserve.it.kr/"><picture><source media="(max-width: 600px)" srcset="assets/service-link-compact.svg" /><img src="assets/service-link.svg" alt="Service ↗" /></picture></a><a href="https://github.com/hanjeun/reserve"><picture><source media="(max-width: 600px)" srcset="assets/github-link-compact.svg" /><img src="assets/github-link.svg" alt="GitHub ↗" /></picture></a><br clear="both" /></p>
-<p><img src="assets/card-space.svg" width="16" height="1" alt="" /><img alt="Java 21" src="https://img.shields.io/badge/Java_21-2F3542?style=flat-square" />&nbsp;&nbsp;<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />&nbsp;&nbsp;<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></p>
+<p><img src="assets/card-space.svg" width="16" height="1" alt="" /><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></p>
 </td></tr></tbody>
 <tbody><tr><td width="1000" height="160" valign="middle">
 <p><img src="assets/card-space.svg" width="16" height="1" alt="" /><img src="assets/open-source.svg" width="170" height="22" alt="Open source" /></p>
